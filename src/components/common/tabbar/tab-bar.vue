@@ -1,5 +1,5 @@
 <template>
-  <div id="tabbar">
+  <div id="tabbar" class="ignore tabbar">
     <slot>
       
     </slot>
