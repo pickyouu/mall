@@ -2,7 +2,7 @@ import Toast from 'components/common/toast/toast.vue'
 const obj={}
 
 obj.install=function(vue){
-  console.log('install...');
+ 
   const toastConstructor=vue.extend(Toast)
   const toast=new toastConstructor()
   vue.prototype.$toast=toast
