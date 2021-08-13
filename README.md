@@ -1,5 +1,6 @@
 # supermall
 ## baseurl需要向coderwhy查询
+##项目地址 8.129.237.119/mall
 ## Project setup
 ```
 npm install
