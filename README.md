@@ -1,5 +1,5 @@
-# supermall
-## baseurl需要向coderwhy查询
+# 移动端mall
+http://149.28.199.77/mall
 
 ## Project setup
 ```
